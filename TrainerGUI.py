@@ -17,8 +17,7 @@ decicheck = StringVar(root)
 Binacheck = StringVar(root)
 Hexacheck = StringVar(root)
 basedep.set("Decimal")
-w = OptionMenu(root, basedep, "Decimal", "Binaire", "Hexa")
-w.grid(row=0, column=0)
+w = OptionMenu(root, basedep, "Decimal", "Binaire", "Hexa").grid(row=0, column=0)
 num = 0
 def binaire(n):return ('{:0b}'.format(n))
 def hexar(n):return ('{:0x}'.format(n))
@@ -49,7 +48,7 @@ def check(nb):
             decicheck.set(u"\u2717")
     elif nb == 2:
         print(str(binaire(num)))
-        if str(binaire(num)) == BinaText.get():
+        if num == decimal(BinaText.get(),2):
             Binacheck.set(u"\u2713")
         else:
             Binacheck.set(u"\u2717")
