@@ -1,7 +1,7 @@
-## Python
+## Base Trainer
 * [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Python](#Python)
+* [For?](#For?)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
