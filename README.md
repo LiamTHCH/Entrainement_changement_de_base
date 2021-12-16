@@ -1,22 +1,10 @@
 ## Base Trainer
 * [General info](#general-info)
 * [Python](#Python)
-* [For?](#For?)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+We created this program for students to train them to change their base, be faster and have better results.
 	
-## Technologies
+## Python
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+* Python 3.9
