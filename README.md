@@ -1,4 +1,4 @@
-## Table of contents
+## Python
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
