@@ -1,6 +1,4 @@
 __author__ = "Liam Thomas-Chollier"
-__copyright__ = "Copyright (C) 2021 Liam Thomas-Chollier"
-__license__ = "Public Domain"
 __version__ = "1.0"
 import random
 base = [2,10,16]
