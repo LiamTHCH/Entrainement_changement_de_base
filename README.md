@@ -3,7 +3,7 @@
 * [Python](#Python)
 
 ## General info
-We created this program for students to train them to change their base, be faster and have better results.
+We created this program to help students practice base changes. You can practice changing between base 2, 10 and 16.
 	
 ## Python
 Project is created with:
